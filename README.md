@@ -1,15 +1,11 @@
 # AB-Testing
 A/B testing is the experimentation of two versions of an element in order to determine which works better.
 A/B Testing enables us to determine whether changes in landing pages, popup forms, article titles, and other digital marketing decisions improve conversion rates and ultimately customer purchasing behavior.
-#Hypothesis based on converted rates:
+# Hypothesis based on converted rates:
 H_O : p(new)-p(old)<=0 old has better conversion
 
 H_1 : p(new)-p(old)>0 new has better conversion
-
-
-
-
-Models Used:
+# Models Used:
 1. Logistic Regression Model
 
 2. Multiple Linear Regression Model
