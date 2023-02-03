@@ -5,13 +5,15 @@ A/B Testing enables us to determine whether changes in landing pages, popup form
 H_O : p(new)-p(old)<=0 old has better conversion
 
 H_1 : p(new)-p(old)>0 new has better conversion
+# Datasets
+It include two datasets with relevant attribures in it which are further used in training and prediction of the models.
 # Models Used:
 1. Logistic Regression Model
 
 2. Multiple Linear Regression Model
 
 3. Decission Trees
-#Final Conclusion:
+# Final Conclusion:
 1.Our implementation shows that the old page is better since it has a higher probability of conversion rate than the new page.
 
 
